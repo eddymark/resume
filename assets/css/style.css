@@ -267,6 +267,14 @@ img{
     color: var(--container-color);
 }
 
+/*========== RESUME ==========*/
+/* added this for the date of last updated the resume */
+.resume__date{
+    display: flex;
+    font-size: var(--smaller-font-size);
+    color: var(--text-color-light);
+    margin-left: 2rem;
+}
 
 /*========== SOCIAL ==========*/
 /* .social{
